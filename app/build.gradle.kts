@@ -59,6 +59,6 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.7.0")
 
     // yt-dlp + ffmpeg wrappers for Android
-    implementation("com.github.yausername.youtubedl-android:library:0.17.2")
-    implementation("com.github.yausername.youtubedl-android:ffmpeg:0.17.2")
+    implementation("io.github.junkfood02.youtubedl-android:library:0.17.2")
+    implementation("io.github.junkfood02.youtubedl-android:ffmpeg:0.17.2")
 }
